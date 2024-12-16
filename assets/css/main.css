@@ -48,6 +48,12 @@
 		-webkit-text-size-adjust: none;
 	}
 
+.logo {
+	width: 150px; /* Ajusta el tamaño deseado */
+	height: auto; /* Mantiene la proporción */
+	margin: 10px;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
